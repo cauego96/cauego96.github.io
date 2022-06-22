@@ -33,7 +33,9 @@
 1. Fonts
 ============================================================================= */
 /* Font Awesome icons font */
-@import url('font-awesome.css'); /* Full icons list: http://fontawesome.io/icons/ */
+/*@import url('font-awesome.css'); /* Full icons list: http://fontawesome.io/icons/ */
+
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 /* Material Design Iconic Font */
 @import url('material-design-iconic-font.min.css'); /* Full icons list: http://zavoloklom.github.io/material-design-iconic-font/cheatsheet.htmls */
